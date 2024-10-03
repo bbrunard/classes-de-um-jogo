@@ -28,7 +28,7 @@ class Heroi {
         console.log(`O ${this.tipo} atacou usando ${ataque}`);
     }
     
-    }
+}
 
 const heroi1 = new Hero('Gandalf', 300, 'mago');
 heroi1.atacar(); 
